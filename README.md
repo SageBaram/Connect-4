@@ -39,8 +39,6 @@ Solution screenshot
 
 ### Links
 
-- Live Site URL: [frontend-mentor-connect-four.vercel.app](https://frontend-mentor-connect-four.vercel.app/)
-
 ## Built with
 
 - [React](https://reactjs.org/)
@@ -48,4 +46,3 @@ Solution screenshot
 - [React Router](https://reactrouter.com/en/main)
 - [useContext](https://react.dev/reference/react/useContext)
 - [SCSS](https://sass-lang.com/)
-- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
